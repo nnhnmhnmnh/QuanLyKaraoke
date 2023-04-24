@@ -1,0 +1,13 @@
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe.config
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.exe
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\bin\Debug\QuanLyKaraoke.pdb
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.AssemblyReference.cache
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.SuggestedBindingRedirects.cache
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Properties.Resources.resources
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.GenerateResource.cache
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.csproj.CoreCompileInputs.cache
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.exe
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.pdb
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Login.resources
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Form2.resources
+D:\Documents\C#\QuanLyKaraoke\QuanLyKaraoke\obj\Debug\QuanLyKaraoke.Form3.resources

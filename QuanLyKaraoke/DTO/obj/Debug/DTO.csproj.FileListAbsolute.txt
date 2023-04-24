@@ -1,0 +1,12 @@
+D:\Documents\C#\QuanLyKaraoke\DTO\bin\Debug\DTO.dll
+D:\Documents\C#\QuanLyKaraoke\DTO\bin\Debug\DTO.pdb
+D:\Documents\C#\QuanLyKaraoke\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Documents\C#\QuanLyKaraoke\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Documents\C#\QuanLyKaraoke\DTO\obj\Debug\DTO.dll
+D:\Documents\C#\QuanLyKaraoke\DTO\obj\Debug\DTO.pdb
+D:\Desktop\QuanLyKaraoke\DTO\bin\Debug\DTO.dll
+D:\Desktop\QuanLyKaraoke\DTO\bin\Debug\DTO.pdb
+D:\Desktop\QuanLyKaraoke\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Desktop\QuanLyKaraoke\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Desktop\QuanLyKaraoke\DTO\obj\Debug\DTO.dll
+D:\Desktop\QuanLyKaraoke\DTO\obj\Debug\DTO.pdb
